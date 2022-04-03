@@ -1,3 +1,3 @@
 # Econometrics_Project
 
-In this project, I will use Linear Regression to determine the relationship of the Inflation and Interest rates with the S&P500.
+In this project, I will use Linear Regression to determine the relationship of the Inflation and Interest rates with the S&P500.  The model R squared is a good score of .864. With a critical value of .05, both Inflation and Interest have statistically significant p-values. Inflation has a positive effect and Interest has a negative effect on the S&P500. For every one unit increase of Inflation, the S&P500 increases by 3006.5329. For every one unit increase of Interest, the S&P500 decreases by 750.1184. For every one unit increase in the interaction term, the S&P500 decreases by 702.7069.
